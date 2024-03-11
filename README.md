@@ -5,9 +5,3 @@ Primeiro projeto com README🚀
 
 ## Tecnologias utilizadas
 -HTML
-
-Clone para o projeto
-```
-
-git clone
-```
